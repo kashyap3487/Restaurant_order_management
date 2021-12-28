@@ -1,0 +1,38 @@
+Sandwitch,2,21.534 Coffee,2,21.534 
+Pizza,5,64.38 French Fries,2,64.38 
+Sandwitch,2,32.634 Pizza,1,32.634 Coffee,2,32.634
+Pizza,5,63.27 Salad,2,63.27 
+Sandwitch,2,14.43 
+Pizza,1,11.1 
+Pizza,1,11.1 
+Coffee,10,35.52 
+Salad,1,3.88 
+Sandwitch,2,32.63 Pizza,1,32.63 Coffee,2,32.63 
+Sandwitch,2,32.63 Pizza,1,32.63 Coffee,2,32.63 
+Sandwitch,2,32.63 Pizza,1,32.63 Coffee,2,32.63 
+Sandwitch,2,21.53 Coffee,2,21.53 
+Sandwitch,2,14.43 
+Sandwitch,2,14.43 
+Sandwitch,2,41.51 Pizza,1,41.51 French Fries,2,41.51 Coffee,2,41.51 
+Sandwitch,2,14.43 
+Sandwitch,2,14.43 
+Sandwitch,2,14.43 
+Sandwitch,2,14.43 
+Sandwitch,2,14.43 
+Sandwitch,2,14.43 
+Sandwitch,2,14.43 
+Sandwitch,2,14.43 
+Sandwitch,2,14.43 
+Sandwitch,2,14.43 
+Sandwitch,2,14.43 
+Sandwitch,2,25.53 Pizza,1,25.53 
+Pizza,3,42.18 French Fries,2,42.18 
+Coffee,2,7.1 
+Coffee,2,7.1 
+Coffee,2,7.1 
+Coffee,2,7.1 
+Sandwitch,2,14.43 
+Sandwitch,1,7.21 
+Pizza,1,12.32 
+Pizza,1,11.1 
+Pizza,1,11.1 

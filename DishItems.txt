@@ -1,0 +1,7 @@
+Sandwitch,6.5
+Pizza,10.0
+French Fries,4.0
+Salad,3.5
+Coffee,3.2
+Bottel of Coke,3.2
+Hakka Noodles,9.5
